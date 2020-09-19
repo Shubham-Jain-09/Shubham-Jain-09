@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am Shubham Jain. My main interest lies in AI which is based on providing intelligence to machine to make them able to learn and think. I have knowledge of Machine Learning and Deep Learning which is used to provide the ability to machine to make them Intelligent. My curiosity inspire me to learn something new always and it helps me to bring something new to the table.
+I am Shubham Jain. My main interest lies in AI which is based on providing intelligence to machine to make them able to learn and think. I have knowledge of Machine Learning and Deep Learning which is used to make machines intelligent. My curiosity inspire me to learn something new always and it helps me to bring something new to the table.
 
 
 
