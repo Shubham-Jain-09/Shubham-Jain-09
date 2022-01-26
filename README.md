@@ -7,9 +7,6 @@
 I am Shubham Jain. My main interest lies in AI which is based on providing intelligence to machine to make them able to learn and think. I have knowledge of Machine Learning and Deep Learning which is used to make machines intelligent. My curiosity inspires me to learn something new and it helps me to bring something new to the table.
 
 
-
-- 🔭 I’m currently implementing projects based on NLP and Computer Vision.
-
 - 🌱 I’m currently learning new concepts of **NLP** and **Computer Vision**.
 
 - 💬 Ask me about Computer Vision, NLP, ML or DL.
