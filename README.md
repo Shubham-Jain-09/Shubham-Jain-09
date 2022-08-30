@@ -1,6 +1,6 @@
 # Shubham Jain
 
-[![linkedin](https://github.com/Shubham-Jain-09/Shubham-Jain-09/blob/master/LinkedIn.png)](https://www.linkedin.com/in/shubham-profile)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![kaggle](https://github.com/Shubham-Jain-09/Shubham-Jain-09/blob/master/kaggle.png)](https://www.kaggle.com/sjstarkiller)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/Shubham-Jain-09/Shubham-Jain-09/blob/master/Screenshot_1.png)](mailto:shubham.jain09124@gmail.com)
+[![linkedin](https://github.com/Shubham-Jain-09/Shubham-Jain-09/blob/master/LinkedIn.png)](https://www.linkedin.com/in/shubham-profile)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![kaggle](https://github.com/Shubham-Jain-09/Shubham-Jain-09/blob/master/kaggle.png)](https://www.kaggle.com/sjstarkiller)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/Shubham-Jain-09/Shubham-Jain-09/blob/master/Screenshot_1.png)](mailto:shubham.jain091299@gmail.com)
 
 ### Hi there 👋
 
