@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm Shubham Jain, a passionate Data Scientist with a deep interest in Artificial Intelligence. My main focus is on empowering machines with the ability to learn and think, leveraging the principles of Machine Learning and Deep Learning. My curiosity drives me to continually explore and innovate, bringing fresh ideas and solutions to the table.
+I'm Shubham Jain, a passionate Senior AI Engineer with a deep interest in Artificial Intelligence. My main focus is on empowering machines with the ability to learn and think, leveraging the principles of Machine Learning and Deep Learning. My curiosity drives me to continually explore and innovate, bringing fresh ideas and solutions to the table.
 
 🌱 **Currently Learning**: New concepts in Natural Language Processing (NLP) and Computer Vision.
 
